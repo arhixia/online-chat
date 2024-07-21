@@ -8,7 +8,7 @@
 
 общение в чате:
 ![Без имени](https://github.com/user-attachments/assets/2c1f09a0-6126-43d9-99c1-4bb1fd6950a3)
-![Без имени](https://github.com/user-attachments/assets/e254fcb4-9f63-45ce-925e-abddfc425488)
+![Без имени](https://github.com/user-attachments/assets/ee8ff835-84d6-4e1e-9c42-ec5e203386e8)
 
 
 Функционал:
