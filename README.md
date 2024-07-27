@@ -35,7 +35,7 @@
 
 Использованные технологии
 
-Frontend: React, CSS
+Frontend: React, CSS, JavaScript
 
 
 Backend: FastAPI, SQLAlchemy, PostgreSQL
